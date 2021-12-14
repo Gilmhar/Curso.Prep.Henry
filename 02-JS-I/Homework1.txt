@@ -1,0 +1,19 @@
+Variable:
+    *Las variables son objetos que pueden ir cambiando lo que son o lo
+     que significan, dependiendo de lo que uno quiera que sean.
+Strings:
+    *Cuando escribimos numeros o una letras, pero
+     no tienen ningún valor, solo son números o letras que escribimos.
+Funciones:
+    *Argumentos:
+       Son instrucciones para que se ejecute una orden.
+    *Return:
+       Es una instruccion para que nos diga el resultado 
+       de una operacon.
+Declaraciones (if):
+    *Es una instruccion que depende de un resultado para que haga
+     lo que le pedimos.
+Valores booleanos (True, False; Null):
+    *Son valores que son el resultado de operaciones que tienen una
+     condicion.
+                                    
