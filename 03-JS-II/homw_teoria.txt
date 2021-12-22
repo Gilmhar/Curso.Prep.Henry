@@ -1,0 +1,11 @@
+*Bucle For:
+    Es un instrucción que recorre listas y las recorre tantas
+    veces yo le indique.
+*Comparadores:
+    Son simbolos que se ocupan para establecer una condición
+    || este simbolo se ocupa para condicionar a que se escoja
+       entre dos resultados; O uno u otro.
+    && este simbolo se ocupa para establecer que ambas opciones
+       se tienen que cumplir para que un resultado se de.   
+    != este simbolo se ocupa para decir que un resultado es 
+       difrente de otro.    
