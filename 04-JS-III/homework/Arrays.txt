@@ -1,0 +1,7 @@
+Arrays:
+   Son colecciones de cosas, de lo que yo quiera. Pero como
+   en toda colección, las cosas tienen que estar ordenadas para
+   que yo sepa dónde está cada cosa. Asi que todas las cosas de
+   la colección tienen un número asignado y así poder saber en
+   qué orden están, quién va primero y quién después.
+    
