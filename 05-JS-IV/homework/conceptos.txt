@@ -1,0 +1,22 @@
+*Objetos: Son colecciones de cosas que tienen propiedades.
+
+*Propiedades: Son palabras clave que se asocian a un valor.
+
+*Métodos: Cuando una propiedad de un objeto es una función, se
+          le llama, "Metodo".
+
+*Bucle for...in: Cuando queremos recorrer de manera automática
+                 todas las propiedades que pdría tener un 
+                 objeto se ocupa este bucle.
+
+*Notacion de puntos [NP] vs Notacion de Corchetes [NC]:
+NP: Es mas rápido y más fácil de hacer referencias a las
+    propiedades de los objetos. Pero no es tan flexible, pues
+    no se puede hacer referencias a variables, solo se
+    puede hacer a la propiedad tal cual como está declarada
+    cuando se quiere llamar a la propiedad de un objeto.
+
+NC: Es menos directa al escribir, pero es flexible porque se 
+    puede hacer referencia a variables o la palabra exacta como
+    fue declarada la propiedad cuando se quiere llamarla.                   
+                 
